@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Mehedi Hasan Shihab</h1>
 
 <p align="center">
-🎓 CSE Undergraduate · 🤖 Machine Learning Enthusiast · 🧠 AI Explorer · 👨‍💻 Problem Solver
+🎓 CSE Undergraduate · 🤖 Machine Learning & AI Enthusiast ·   🗣️ NLP · 🎨 Generative AI · 👁️ Computer Vision · 👨‍💻 Problem Solver ·
 </p>
 
 <p align="center">
