@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/sbshihab24/sbshihab24/blob/main/banner-image_2-1024x410.png?raw=true" alt="Banner" width="100%" />
+</p>
+
+
 <h1 align="center">Hi there! 👋 I'm Mehedi Hasan Shihab</h1>
 
 <p align="center">
