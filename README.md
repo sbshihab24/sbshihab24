@@ -16,15 +16,15 @@
 
 ## 🚀 About Me
 
-Hi, I’m **Mehedi Hasan Shihab** — a Computer Science graduate and aspiring **AI Engineer** with strong hands-on experience in **Artificial Intelligence**, **Machine Learning**, **Computer Vision**, and **Generative AI (LLMs)**.
+Hi, I’m **Mehedi Hasan Shihab** — a Computer Science graduate and **AI Developer** with **1 year of professional experience** building practical AI and Machine Learning solutions.
 
-My journey into AI started with curiosity around how data-driven systems can solve real-world problems. Over time, I’ve built a solid foundation in **Python**, data analysis, machine learning algorithms, and deep learning, and gradually moved toward **production-oriented AI systems** rather than only academic models.
+My experience spans **Artificial Intelligence, Machine Learning, Computer Vision, and Generative AI (LLMs)**. I started my AI journey by working on data-driven and computer vision systems, including a **Book Recommendation System** and a **real-time Number Plate Detection System** using **OpenCV** and **PaddleOCR**.
 
-I’ve worked on projects such as a **Book Recommendation System** and a **real-time Number Plate Detection System** using **OpenCV** and **PaddleOCR**, which strengthened my skills in **data preprocessing**, **model training**, **evaluation**, and **real-time computer vision pipelines**.
+Over the past year, I’ve worked on **real-world AI applications**, with a growing focus on **Generative AI, Agentic AI, RAG, and LLM-based systems**. I’ve worked with technologies such as **Python, OpenAI API, LangChain, LlamaIndex, FAISS, Qdrant, and vector databases** to build intelligent and context-aware applications.
 
-More recently, I’ve been deeply focused on **Generative AI and Agentic AI systems**, working with tools like **OpenAI API**, **LangChain**, and **LlamaIndex** to build **intelligent, conversational, and context-aware applications**. My projects include AI agents, RAG-based systems, real-time voice assistants, and responsible AI applications in domains like healthcare and education.
+My recent projects include an **Agentic Financial AI Assistant**, an **AI-powered IELTS Writing Feedback System**, **Medical AI applications**, a **medical chatbot using LLMs and RAG**, and a **Machine Learning-based Phishing Detection System**. These projects have strengthened my experience in **LLM integration, retrieval systems, NLP, machine learning, deployment, and AI application development**.
 
-Alongside development, I actively sharpen my **problem-solving and algorithmic thinking** by solving **data structures and algorithm challenges** on platforms like **Codeforces** and **HackerRank**. I believe strong fundamentals combined with practical system-building lead to impactful AI solutions.
+Alongside development, I actively improve my **problem-solving and algorithmic skills** through **data structures and algorithm challenges** on platforms like **Codeforces** and **HackerRank**. I enjoy building practical AI systems that solve real-world problems and continuously expanding my skills through hands-on development.
 
 
 
@@ -32,24 +32,36 @@ Alongside development, I actively sharpen my **problem-solving and algorithmic t
 ---
 
 ## 💡 Current Focus
-- 🎯 Real-Time Emotion Recognition (Thesis)
-- 🧩 AI-powered Helmet & Number Plate Detection
-- 🤖 Exploring Generative AI, LLMs, OpenAI APIs
+
+- 🤖 Building LLM-powered and Agentic AI applications using OpenAI APIs, LangChain, and RAG
+- 🧠 Developing end-to-end AI systems from data processing and model development to deployment
+- ☁️ Exploring Docker, AWS, FastAPI, and production deployment for AI applications
+- 🔎 Working with vector databases and retrieval systems such as FAISS and Qdrant
+- 🚀 Building practical AI projects across Generative AI, NLP, Computer Vision, and Machine Learning
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks:**  
-`Python` · `C/C++` · `JavaScript` · `HTML/CSS` · `React.js`  
-`scikit-learn` · `TensorFlow` · `Keras` · `OpenCV` · `PaddleOCR`
+**Languages & Frameworks:**
 
-**Database & Tools:**  
-`MySQL` · `Google Colab` · `VS Code` · `Git & GitHub` · `Kaggle`  
+`Python` · `C/C++` · `JavaScript` · `HTML/CSS` · `React.js` · `FastAPI` · `Flask`
 
-**Others:**  
-`Prompt Engineering` · `Facial Expression Recognition` · `YOLO`  
-`MS Office` · `Linux (Ubuntu)` · `Adobe Suite` · `Canva`  
+**AI & Machine Learning:**
+
+`Scikit-learn` · `TensorFlow` · `Keras` · `PyTorch` · `OpenCV` · `YOLO` · `PaddleOCR`
+
+**Generative AI & LLMs:**
+
+`OpenAI API` · `Gemini API` · `LangChain` · `LlamaIndex` · `RAG` · `FAISS` · `Qdrant` · `Prompt Engineering` · `Vector Embeddings`
+
+**Data & Databases:**
+
+`NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `MySQL` · `PostgreSQL`
+
+**Deployment & Tools:**
+
+`Docker` · `AWS` · `Streamlit` · `Git` · `GitHub` · `CI/CD` · `Google Colab` · `VS Code` · `Linux (Ubuntu)`
 
 ---
 
@@ -93,20 +105,22 @@ Designed and developed a production-grade medical AI chatbot that provides safe,
 
 ---
 
-### 🎤 Bella | Live Voice Assistant
-**Real-Time LLM-Powered Voice Receptionist | 2025**  
-Built a real-time AI voice assistant using WebRTC and the OpenAI Realtime API, enabling low-latency, human-like conversations. Features include live speech transcription, interruptible dialogue, automatic call summaries, and a modern premium UI.
 
-🔗 GitHub: https://github.com/sbshihab24/Voice-Agent
+### 🏥 Medical Chatbot with LLMs & RAG
+
+**LLM-Based Medical Chatbot | 2025**  
+Built a medical chatbot using LLMs, LangChain, Pinecone, and Flask. Implemented document-based retrieval to provide context-aware responses and deployed the application on AWS.
+
+🔗 GitHub: https://github.com/sbshihab24/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
 
 ---
 
-### 📄 AI-Powered Document Editor
-**LLM-Based Intelligent PDF Editing System | 2025**  
-Developed an AI-powered document editing system that allows users to modify PDF content using natural language instructions. The system intelligently identifies relevant context and applies precise text changes while preserving document layout and formatting.
+### 🛡️ Phishing Detection System
 
-🔗 GitHub: https://github.com/sbshihab24/AI-Powered-Document-Editor
+**Machine Learning-Based Phishing Detection | 2025**  
+Developed an end-to-end system for detecting phishing URLs and email content using machine learning, URL feature analysis, and NLP-based classification.
 
+🔗 GitHub: https://github.com/sbshihab24/phising-detection-final-Project
 ---
 
 ## 💼 Experience
@@ -125,13 +139,16 @@ Developed an AI-powered document editing system that allows users to modify PDF 
 
 ## 🌱 Extracurricular Activities
 
-- 🎓 **Volunteer** | IEEE Computer Society Student Branch (2024–Present)  
+- 🤖 **Volunteer & Director of Online Events** | AIML Professional Community Bangladesh
+  Organized AI/ML webinars and supported community engagement initiatives.
+
+- 🎓 **Volunteer** | IEEE Computer Society Student Branch (2024–Present)
   Contributed to organizing workshops, tech talks, and fostering community engagement.
 
-- 💻 **Member** | Green University Computer Club (2021–Present)  
+- 💻 **Member** | Green University Computer Club (2021–Present)
   Helped organize tech events and promoted emerging technologies.
 
-- 🌿 **Member** | Eco Warriors Club (2024–Present)  
+- 🌿 **Member** | Eco Warriors Club (2024–Present)
   Participated in sustainability campaigns and organized green initiatives on campus.
 
 ---
